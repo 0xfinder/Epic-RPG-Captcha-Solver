@@ -27,3 +27,8 @@ Fun little machine learning project to solve Epic RPG captchas, trained on about
 - Wolf skin also affects the accuracy a lot since the colours are similar to other item greyscale images. (Possible solution: convert all images to greyscale and train on that)
 - Some classes have very little data to work on despite the collective size being 4000 images since the items that appear in the captcha depends on the user's area, items in higher areas appear less often.
 - Sorting the images took a lot of time, better way to collect and sort data might be to sort them when scraping, using the model, or to artifically generate captchas to train the model on.
+
+
+## Update
+
+I made a captcha generator so you can opt to use that if you want, I won't really be maintaining this project as it was a side project and I've had my fair share of fun.

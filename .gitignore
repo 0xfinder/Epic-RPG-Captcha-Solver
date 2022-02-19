@@ -1,4 +1,9 @@
 test
 data
 models/classifier.h5
+models/classifier23.h5
 scripts
+.env
+epic-rpg-selfbot
+classifier.h5
+val_ds
